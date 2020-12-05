@@ -1,0 +1,2 @@
+# LD-AS
+Language Identification and Analytics System ​ is an application that is fulfilled with the Language Analytics feature. This feature is an ability to understand relevant information of documents and learn from annotation or past experiences that processed through Tone Analyser an IBM Cloud Service. In the end, it forms as a system that provides a tone analysis of inputs from its trained knowledge that has driven from different learning paths.
