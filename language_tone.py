@@ -9,13 +9,13 @@ from ibm_cloud_sdk_core.authenticators import IAMAuthenticator
 #IBM Credentials
 
 ## Translator
-apikey = "HIigk6bEQN_AA8R79uMmRlpMILxxcKIiKxcm8OetHbFl"
-url = 'https://api.eu-gb.language-translator.watson.cloud.ibm.com/instances/63187563-1323-48c2-a632-f1217214a9b7'
+apikey = "Your API KEY"
+url = 'Enter URL'
 
 ## Tone Analyzer
 
-oapikey = '29IjB8aksQx0bK3IsYxNM8-iPrR5xVz5vsPJk7BPOSH8'
-ourl = 'https://api.eu-gb.tone-analyzer.watson.cloud.ibm.com/instances/58bbded9-add0-4fde-93ee-070a855b2ceb'
+oapikey = 'Enter API KEY'
+ourl = 'Enter URL'
 
 
 #Setup Services
